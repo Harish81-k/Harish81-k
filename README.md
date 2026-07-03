@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Siddu+Kutchula;Full+Stack+Developer+%7C+Problem+Solver;Building+Scalable+Web+Solutions;Available+for+SDE+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Harish;Full+Stack+Developer+%7C+Problem+Solver;Building+Scalable+Web+Solutions;Available+for+SDE+Roles" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,9 +15,9 @@
 🌐 Currently exploring opportunities in **Full-Stack** and **Backend Engineering**.
 
 <p align="center">
-  <a href="https://portfolio-siddu-kutchula-chi.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:siddukuchula62@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/siddu-kutchula-0a4950291/"><img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-harish-link.com/"><img src="https://img.shields.io/badge/🌐_Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/✉️_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-id/"><img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -39,28 +39,29 @@
 ## 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SidduKutchula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=SidduKutchula&theme=tokyonight&hide_border=true" />
+  <!-- NOTE: Update 'YourGitHubUsername' with your actual username below -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=YourGitHubUsername&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SidduKutchula&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=SidduKutchula&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-trophies.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ## 📈 Activity & Snake
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidduKutchula&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=FF6EC7&point=79C0FF&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=FF6EC7&point=79C0FF&area=true" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SidduKutchula/snake-animation/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/YourGitHubUsername/snake-animation/output/github-contribution-grid-snake.svg" />
 </p>
 
 <div align="center">
