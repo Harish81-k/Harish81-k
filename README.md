@@ -1,69 +1,68 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/81398968/160081486-30f768cc-58bb-464a-98d6-3794bd6f4b8a.gif" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Harish;Full+Stack+Developer+%7C+Problem+Solver;Building+Scalable+Web+Solutions;Available+for+SDE+Roles" alt="Typing SVG" />
-</p>
+# Hi, I'm Harish 👋
+
+### Full-Stack Developer | Problem Solver
+*Building scalable, user-centric web solutions.*
+
+[🌐 Portfolio](https://opticrop-0wrm.onrender.com) • [✉️ Email](mailto:harishkota0308@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/harish-kota-5b228a358)
+
+</div>
 
 ---
 
 ## 📌 About Me
-🚀 **Full-Stack Developer** passionate about building scalable, user-centric web applications.
-🧠 Solved **500+ DSA problems** across competitive platforms with a strong focus on algorithmic efficiency.
-🤝 **Open-Source Contributor** committed to clean architecture and collaborative engineering.
-🌐 Currently exploring opportunities in **Full-Stack** and **Backend Engineering**.
-
-<p align="center">
-  <a href="https://portfolio-harish-link.com/"><img src="https://img.shields.io/badge/🌐_Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/✉️_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id/"><img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+I am a **Full-Stack Developer** passionate about crafting seamless, high-performance web experiences. With a foundation built on solving **500+ DSA problems**, I prioritize clean architecture and algorithmic efficiency in every project.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,py,cpp,mysql,postgres,mongodb,firebase" />
-</p>
-
-### Frameworks & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,tailwind,git,github,vscode,docker,postman,figma" />
-</p>
-
----
-
-## 📊 GitHub Stats & Streaks
-
-<p align="center">
-  <!-- NOTE: Update 'YourGitHubUsername' with your actual username below -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=YourGitHubUsername&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&margin-w=15" />
-</p>
-
-## 📈 Activity & Snake
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=FF6EC7&point=79C0FF&area=true" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YourGitHubUsername/snake-animation/output/github-contribution-grid-snake.svg" />
-</p>
+## 🛠️ Technical Expertise
 
 <div align="center">
-  <h3>Thanks for visiting! Let's connect and build something great. 🚀</h3>
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, Java, C |
+| **Frontend** | React.js, HTML5, CSS3, Bootstrap |
+| **Backend** | Node.js, Express.js, Django |
+| **Databases** | MongoDB, MySQL, PostgreSQL, SQLite |
+| **Tools** | Git, GitHub, REST APIs, Postman |
+| **Concepts** | DSA, DBMS, MVC/MVT, Authentication |
+
+</div>
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harish81-k&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=ffffff00" />
+<img src="https://streak-stats.demolab.com?user=Harish81-k&theme=default&hide_border=true&background=ffffff00" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harish81-k&layout=compact&theme=default&hide_border=true&bg_color=ffffff00" />
+
+</div>
+
+---
+
+## 📈 Activity & Contribution
+
+<div align="center">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish81-k&theme=default&hide_border=true&bg_color=ffffff00&color=404040&line=5D5D5D&point=000000" width="100%"/>
+
+<br>
+
+<!-- Snake Animation -->
+<img src="https://github.com/Harish81-k/Harish81-k/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+</div>
+---
+
+<div align="center">
+
+### Let's connect and build something great! 🚀
+
 </div>
