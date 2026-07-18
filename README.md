@@ -12,7 +12,7 @@
 
 
 
-[🌐 Portfolio](https://opticrop-0wrm.onrender.com) • [✉️ Email](mailto:harishkota0308@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/harish-kota-5b228a358)
+[🌐 Portfolio](https://portfolio-mu-livid-0vfre7lmt5.vercel.app/) • [✉️ Email](mailto:harishkota0308@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/harish-kota-5b228a358)
 
 
 
